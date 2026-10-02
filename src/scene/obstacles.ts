@@ -6,7 +6,7 @@ const FIRST_X = 72;
 const PAIR_SPACING = 116;
 const OBSTACLE_WIDTH = 26;
 const OBSTACLE_HEIGHT = 120;
-const GAP_SIZE = 58;
+const GAP_SIZE = 68;
 const FLYER_HALF_SIZE = 9;
 const WORLD_EDGE = 90;
 
