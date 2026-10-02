@@ -1,5 +1,7 @@
 # ForgEng 2D Endless Flyer Template
 
+**Live demo:** [play.forgeng.dev/forgeng-2d-endless-flyer-template/current/](https://play.forgeng.dev/forgeng-2d-endless-flyer-template/current/)
+
 **TypeScript starter template for a one-button browser game** built with **[ForgEng](https://forgeng.dev)** — a **WebGPU-first**, modular game engine that runs directly in modern browsers.
 
 This repository is the endless-flyer sibling of [`forgeng-2d-platformer-template`](https://github.com/ForgEngDev/forgeng-2d-platformer-template), [`forgeng-2d-top-down-template`](https://github.com/ForgEngDev/forgeng-2d-top-down-template), and [`forgeng-3d-template`](https://github.com/ForgEngDev/forgeng-3d-template). It vendors ForgeNG 3.4.2 and provides a small, readable game loop that beginners can extend with their own art, audio, and rules.
